@@ -1,0 +1,16 @@
+(function(){
+  window['optimizely'] = window['optimizely'] || [];
+  window['optimizely'].push(['activateGeoDelayedExperiments', {
+    'location':{
+      'city': "TRAN",
+      'continent': "AS",
+      'country': "VN",
+      'region': ""
+    },
+    'ip':"115.79.54.97"
+  }]);
+})
+//
+()
+
+;
