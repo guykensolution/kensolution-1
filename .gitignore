@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea
+/package-lock.json
+/config/
+/node_modules
+/application/cache
+/application/path_sess
+/dashboard/application/cache
+/dashboard/application/path_sess
+/template/upload/.ckfinder
