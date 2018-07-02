@@ -1,0 +1,15 @@
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="operator-lp-080717" transform="translate(-585.000000, -5274.000000)" stroke="#2D67FF" stroke-width="2">
+            <g id="Page-1" transform="translate(586.000000, 5275.000000)">
+                <path d="M22,11 C22,17.075 17.075,22 11,22 C4.925,22 0,17.075 0,11 C0,4.925 4.925,0 11,0 C17.075,0 22,4.925 22,11 Z" id="Stroke-1"></path>
+                <path d="M17,11 C17,14.314 14.313,17 11,17 C7.687,17 5,14.314 5,11 C5,7.687 7.687,5 11,5 C14.313,5 17,7.687 17,11 Z" id="Stroke-3"></path>
+                <path d="M34,28 C34,31.314 31.313,34 28,34 C24.687,34 22,31.314 22,28 C22,24.687 24.687,22 28,22 C31.313,22 34,24.687 34,28 Z" id="Stroke-5"></path>
+                <path d="M34,4 C34,6.209 32.209,8 30,8 C27.791,8 26,6.209 26,4 C26,1.791 27.791,0 30,0 C32.209,0 34,1.791 34,4 Z" id="Stroke-7"></path>
+                <path d="M18.561,18.9819 L23.555,23.9759" id="Stroke-9"></path>
+                <path d="M28,22 L30,8" id="Stroke-11"></path>
+                <path d="M30,28 C30,26.896 29.104,26 28,26 C26.896,26 26,26.896 26,28 C26,29.104 26.896,30 28,30 C29.104,30 30,29.104 30,28 Z" id="Stroke-13"></path>
+            </g>
+        </g>
+    </g>
+</svg>

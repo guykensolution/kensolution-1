@@ -1,0 +1,16 @@
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Secondary-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UpcomingWebinarPage_LoggedIn" transform="translate(-1154.000000, -26.000000)">
+            <g id="Group-5">
+                <g transform="translate(1154.000000, 23.000000)" id="Group-3">
+                    <g transform="translate(0.000000, 3.000000)">
+                        <path d="M11.5,1.5 L3,1.5 C1.61928813,1.5 0.5,2.61928813 0.5,4 L0.5,10 C0.5,11.3807119 1.61928813,12.5 3,12.5 L9,12.5 C10.3807119,12.5 11.5,11.3807119 11.5,10 L11.5,1.5 Z" id="Rectangle-3" stroke="#637280"></path>
+                        <path d="M11.0226805,1.97731949 L5.5,7.5" id="Line-2" stroke="#637280" stroke-linecap="square"></path>
+                        <rect id="Rectangle-7" fill="#FFFFFF" x="4" y="0" width="2" height="3"></rect>
+                        <rect id="Rectangle-7-Copy" fill="#FFFFFF" transform="translate(11.500000, 8.000000) rotate(90.000000) translate(-11.500000, -8.000000) " x="10.5" y="6.5" width="2" height="3"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

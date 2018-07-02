@@ -1,0 +1,12 @@
+<svg width="40px" height="40px" viewBox="0 0 186 186" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" fill-rule="nonzero" fill="#000000">
+            <g id="driftrock-black" transform="translate(13.000000, 13.000000)">
+                <polygon id="Shape" points="72.613 38.983 43.691 38.983 43.691 116.107 72.612 116.107 72.612 38.983"></polygon>
+                <polygon id="Shape" points="115.995 38.983 87.074 38.983 87.074 116.107 115.995 116.107"></polygon>
+                <polygon id="Shape" points="130.434 0.457 130.455 116.107 159.376 116.107 159.341 0.457 130.434 0.457"></polygon>
+                <path d="M29.259,116.733 L29.259,0.457 L0.352,0.457 L0.352,116.733 C0.352,116.733 0.352,159.446 43.713,159.446 L159.342,159.446 L159.342,130.97 L43.713,130.97 C43.713,130.971 29.259,130.971 29.259,116.733 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

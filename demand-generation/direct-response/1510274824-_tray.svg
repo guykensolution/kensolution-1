@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 51.4 58.9" enable-background="new 0 0 51.4 58.9" xml:space="preserve" width="40">
+
+  <polygon fill="#D2B53C" points="17,14.7 8.5,9.8 0,14.7 0,24.5 8.5,29.5 17,24.5"/>
+  <polygon fill="#F1DE44" points="17,14.7 8.5,19.6 8.5,29.5 17,24.5"/>
+  <polygon fill="#4FA7B8" points="42.5,9.8 25.5,19.6 25.5,29.5 34,34.4 51,24.5 51,14.7"/>
+  <polygon fill="#65CCEB" points="51,14.7 34,24.5 34,34.4 51,24.5"/>
+  <polygon fill="#D58040" points="34,24.5 25.5,29.5 25.5,39.3 42.5,49.1 51,44.2 51,34.4"/>
+  <polygon fill="#F99F47" points="51,34.4 42.5,39.3 42.5,49.1 51,44.2"/>
+  <polyline fill="#BB4488" points="34,4.9 25.5,0 17,4.9 17,29.5 25.5,34.4 34,29.5 34,4.9 "/>
+  <polygon fill="#E05292" points="34,29.5 34,4.9 25.5,9.8 25.5,34.4"/>
+  <polyline fill="#61A04B" points="17,44.2 17,54 25.5,58.9 25.5,58.9 34,54 34,24.5 25.5,19.6 0,34.4 0,44.2 8.5,49.1 8.5,49.1
+  8.5,49.1 8.5,49.1"/>
+  <polygon fill="#77C262" points="34,24.5 8.5,39.3 8.5,49.1 25.5,39.3 25.5,58.9 34,54"/>
+
+</svg>

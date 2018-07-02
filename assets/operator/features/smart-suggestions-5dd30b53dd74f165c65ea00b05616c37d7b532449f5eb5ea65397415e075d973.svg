@@ -1,0 +1,17 @@
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="operator-lp-080717" transform="translate(-179.000000, -5453.000000)" stroke="#2D67FF" stroke-width="2">
+            <g id="Page-1" transform="translate(180.000000, 5454.000000)">
+                <path d="M18,9.167 C18,4.104 13.971,0 9,0 C4.029,0 0,4.104 0,9.167 C0,11.993 1.259,14.515 3.234,16.194 C4.314,17.112 5,18.408 5,19.825 L5,19.86 L5,23.828 C5,25.917 6.527,27.783 8.607,27.981 C10.993,28.209 13,26.339 13,24 L13,19.86 L13,19.825 C13,18.408 13.686,17.112 14.766,16.194 C16.741,14.515 18,11.993 18,9.167 Z" id="Stroke-1"></path>
+                <path d="M5,23.8281 L13,23.8281" id="Stroke-3"></path>
+                <path d="M5,19.8281 L13,19.8281" id="Stroke-5"></path>
+                <path d="M5,8.7129 L13,8.7129" id="Stroke-7"></path>
+                <path d="M9,8.7129 L9,19.8379" id="Stroke-9"></path>
+                <polyline id="Stroke-11" points="17.9824 8.7129 26.0004 8.7129 34.0004 16.7129 34.0004 33.9999 9.0004 33.9999 9.0004 27.9999"></polyline>
+                <polyline id="Stroke-13" points="26 8.7129 26 16.7129 34 16.7129"></polyline>
+                <path d="M16.5,21.8379 L26.5,21.8379" id="Stroke-15"></path>
+                <path d="M16.5,25.8281 L26.5,25.8281" id="Stroke-17"></path>
+            </g>
+        </g>
+    </g>
+</svg>

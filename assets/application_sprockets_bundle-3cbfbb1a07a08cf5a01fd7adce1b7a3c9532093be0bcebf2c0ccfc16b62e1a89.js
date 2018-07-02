@@ -13012,7 +13012,7 @@ var marketoFormIds = {
             },
             sendEmail: function(e) {
                 t.ajax({
-                    url: (s() ? "https://www.intercom.com" : "") + "/api/mobile-signup",
+                    url: (s() ? "" : "") + "/api/mobile-signup",
                     type: "POST",
                     data: {
                         email: e
@@ -13489,7 +13489,7 @@ var marketoFormIds = {
             successHandler: function() {
                 this.recordEmailSubmissionWithMarketo(this.$email.val(), this.marketoFormIds.signup_start).then(function() {
                     t.ajax({
-                        url: ("http://www.intercom.test" === i.location.origin ? "http://www.intercom.test" : "https://www.intercom.com") + "/api/power-of-messaging",
+                        url: ("http://www.intercom.test" === i.location.origin ? "http://www.intercom.test" : "") + "/api/power-of-messaging",
                         data: {
                             email: this.$email.val()
                         },
@@ -14425,7 +14425,7 @@ var _wq = window._wq || [];
     function(t, e, n) {
         var i = function() {};
         i.prototype.get_ga = function() {
-           
+
         }
             ,
             i.prototype.get_inspectlet = function() {
