@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/intercom.iml" filepath="$PROJECT_DIR$/.idea/intercom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kensolution.iml" filepath="$PROJECT_DIR$/.idea/kensolution.iml" />
     </modules>
   </component>
 </project>
